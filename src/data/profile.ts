@@ -17,8 +17,8 @@ export type Profile = {
 // (사진은 public/ 에 넣고 image 경로만 바꾸면 됩니다)
 export const profile: Profile = {
   name: "김승영",
-  bio: "세계 최강 바이브 코더",
-  image: "/profile.svg",
+  bio: "피파왕｜요즘에는 홀란 연구 중이에요",
+  image: "/profile.jpg",
   links: [
     { id: "github", title: "GitHub", url: "https://github.com/" },
     { id: "linkedin", title: "LinkedIn", url: "https://www.linkedin.com/" },
